@@ -106,19 +106,6 @@ time {
 	text-align:right;
 }
 
-/*Bilder */
-
-.image {
-	position:relative;
-	float:left;
-	width:46%;
-	margin:1%;
-	z-index:50;
-}
-
-div:nth-child(2n+1){
-	clear: left;
-}
 /*Footer*/
 
 footer {
@@ -165,20 +152,9 @@ float:left;
   margin-top:20em;
   margin-left: 10em;
   list-style-type: none;
-}	
-
-.image {
-	position:relative;
-	float:left;
-	width:46%;
-	margin:1%;
-	z-index:50;
-}
-
-div:nth-child(2n+1){
-	clear: left;
 }
 }	
+
 /*Tablet Landscape*/
 @media screen and (min-width: 1024px){
 
@@ -195,20 +171,9 @@ div:nth-child(2n+1){
   margin-top:25em;
   margin-left: 10em;
   list-style-type: none;
-}	
-	
-.image {
-	position:relative;
-	float:left;
-	width:46%;
-	margin:1%;
-	z-index:50;
 }
+}	
 
-div:nth-child(2n+1){
-	clear: left;
-}
-}	
 /*Desktop*/
 @media screen and (min-width: 1090px){
 
@@ -226,16 +191,4 @@ div:nth-child(2n+1){
   margin-left: 10em;
   list-style-type: none;
 }	
-	
-.image {
-	position:relative;
-	float:left;
-	width:46%;
-	margin:1%;
-	z-index:50;
-}
-
-div:nth-child(2n+1){
-	clear: left;
-}
 }
