@@ -36,11 +36,11 @@ h2 {
 }
 
 p {
-	margin-left:1%;
+	margin-left:1.5%;
 }
 
 ol a {
-	margin-left:1%;
+	margin-left:-1%;
 }
 main {
     border-color: #8a9da8;
